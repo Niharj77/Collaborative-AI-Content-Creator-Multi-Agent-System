@@ -5,7 +5,7 @@ This project focuses on developing a collaborative AI content creation system wi
 ## 🚀 Key Features
 
 - **Multi-Agent Architecture:** A system where specialized agents (e.g., Researcher, Writer, Editor) collaborate on a single task.
-- **Inter-Agent Communication:** Orchestrated communication and task delegation to create a streamlined content creation workflow.
+- **Inter-Agent Communication:** Orchestrated  communication and task delegation to  the create a streamlined content creation workflow.
 - **Autonomous Content Generation:** Leveraging Python and various APIs to achieve end-to-end, autonomous article generation.
 - **Complex Workflow Orchestration:** Demonstrates skills in managing and directing a complex, multi-stage process.
 
