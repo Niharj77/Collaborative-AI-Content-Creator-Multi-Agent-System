@@ -13,7 +13,7 @@ This project focuses on developing a collaborative AI content creation system wi
 
 The system operates in a series of collaborative steps:
 
-1.  **Idea Generation:** The primary agent receives a topic and delegates tasks to specialized agents.
+1.  **Idea Generation:** The primary agent receive a topic and delegates tasks to specialized agents.
 2.  **Research Agent:** Scours the web for relevant information and data points related to the topic.
 3.  **Writer Agent:** Synthesizes the research findings into a coherent, well-structured draft.
 4.  **Editor Agent:** Polishes the draft for grammar, style, and clarity, ensuring a high-quality final article.
